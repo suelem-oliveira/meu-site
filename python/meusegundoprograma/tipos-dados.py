@@ -1,3 +1,3 @@
-x=5.6
-print(type(x))
+print("olá, mundo!")
+
 
